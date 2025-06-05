@@ -9,6 +9,10 @@
       {
         "Path": "RabbitMq.Producer\\RabbitMq.Producer.csproj",
         "Action": "Start"
+      },
+      {
+        "Path": "RabbitMq.ConsumerTwo\\RabbitMq.ConsumerTwo.csproj",
+        "Action": "Start"
       }
     ]
   }

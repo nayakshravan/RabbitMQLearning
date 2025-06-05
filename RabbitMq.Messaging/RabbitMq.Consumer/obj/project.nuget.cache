@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AXWRbh9Nj2E=",
+  "dgSpecHash": "PS0wEJOa6YM=",
   "success": true,
-  "projectFilePath": "C:\\shravan\\prog\\my git codes\\RabbitMq.Messaging\\RabbitMq.Consumer\\RabbitMq.Consumer.csproj",
+  "projectFilePath": "C:\\shravan\\prog\\my git codes\\RabbitMQLearning\\RabbitMq.Messaging\\RabbitMq.Consumer\\RabbitMq.Consumer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\preet\\.nuget\\packages\\rabbitmq.client\\7.1.2\\rabbitmq.client.7.1.2.nupkg.sha512",
     "C:\\Users\\preet\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",

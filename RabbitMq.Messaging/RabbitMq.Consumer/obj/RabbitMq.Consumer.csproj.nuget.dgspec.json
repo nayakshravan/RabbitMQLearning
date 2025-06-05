@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\shravan\\prog\\my git codes\\RabbitMq.Messaging\\RabbitMq.Consumer\\RabbitMq.Consumer.csproj": {}
+    "C:\\shravan\\prog\\my git codes\\RabbitMQLearning\\RabbitMq.Messaging\\RabbitMq.Consumer\\RabbitMq.Consumer.csproj": {}
   },
   "projects": {
-    "C:\\shravan\\prog\\my git codes\\RabbitMq.Messaging\\RabbitMq.Consumer\\RabbitMq.Consumer.csproj": {
+    "C:\\shravan\\prog\\my git codes\\RabbitMQLearning\\RabbitMq.Messaging\\RabbitMq.Consumer\\RabbitMq.Consumer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\shravan\\prog\\my git codes\\RabbitMq.Messaging\\RabbitMq.Consumer\\RabbitMq.Consumer.csproj",
+        "projectUniqueName": "C:\\shravan\\prog\\my git codes\\RabbitMQLearning\\RabbitMq.Messaging\\RabbitMq.Consumer\\RabbitMq.Consumer.csproj",
         "projectName": "RabbitMq.Consumer",
-        "projectPath": "C:\\shravan\\prog\\my git codes\\RabbitMq.Messaging\\RabbitMq.Consumer\\RabbitMq.Consumer.csproj",
+        "projectPath": "C:\\shravan\\prog\\my git codes\\RabbitMQLearning\\RabbitMq.Messaging\\RabbitMq.Consumer\\RabbitMq.Consumer.csproj",
         "packagesPath": "C:\\Users\\preet\\.nuget\\packages\\",
-        "outputPath": "C:\\shravan\\prog\\my git codes\\RabbitMq.Messaging\\RabbitMq.Consumer\\obj\\",
+        "outputPath": "C:\\shravan\\prog\\my git codes\\RabbitMQLearning\\RabbitMq.Messaging\\RabbitMq.Consumer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
